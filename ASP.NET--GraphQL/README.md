@@ -1,8 +1,6 @@
 # ASP.NET--GraphQL
 
-## Technologies
-
-- .Net Core 5
+## Technologie
 - GraphQL
 - Hot Chocolate
 - SQL Server
